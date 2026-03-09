@@ -1,27 +1,21 @@
-Project Title
+# HR Analytics Dashboard (Power BI)
 
-HR Attrition Analytics Dashboard – Power BI
+## Project Overview
+This project analyzes employee data to understand attrition trends and workforce insights.
 
-🔹 Problem Statement
+## Tools Used
+- Power BI
+- Excel
 
-Analyze employee attrition trends and identify key factors influencing employee turnover.
+## Key Insights
+- Employee Attrition Rate analysis
+- Department-wise Attrition
+- Age group distribution
+- Job satisfaction analysis
 
-🔹 Tools Used
+## Live Dashboard
+View the report here:
+(https://app.powerbi.com/groups/me/reports/e366a285-d3fe-4243-9e2d-efd95fc91f07/e646f14b4ab77da04820?experience=power-bi)
 
-Power BI
-
-DAX
-
-Data Modeling
-
-🔹 Key Insights
-
-Sales department has highest attrition rate (21%)
-
-Employees aged 26–35 show highest attrition
-
-Overtime strongly correlates with attrition
-
-🔹 Dashboard Preview
-
-(Add screenshot — this is important)
+## Dashboard Preview
+![Dashboard](dashboard.png)
