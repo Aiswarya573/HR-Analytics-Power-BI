@@ -18,4 +18,4 @@ View the report here:
 (https://app.powerbi.com/groups/me/reports/e366a285-d3fe-4243-9e2d-efd95fc91f07/e646f14b4ab77da04820?experience=power-bi)
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
